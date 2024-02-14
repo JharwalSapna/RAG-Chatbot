@@ -14,7 +14,7 @@ RAG, or Retrieval-Augmented Generation, enhances the language model's knowledge 
 
 Here is a diagram that shows the process:
 
-![RAG Diagram](docs/rag.jpg)
+![RAG Diagram](docs/rag.png)
 
 ## Installation
 Ensure you have Python installed on your system. Then clone this repository:
